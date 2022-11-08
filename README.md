@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @erfan-th
-- 👀 I’m interested in AI , embedded systems, electronics
+undergraduate electronics student
+Interested in AI , embedded systems, electronics and of course programming =)
